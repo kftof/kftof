@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christophe</h1>
-<h3 align="center">Full-Stack Developer Junior from france</h3>
+<h3 align="center">Full-Stack Developer from france</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
